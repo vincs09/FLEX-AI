@@ -9,7 +9,7 @@
 <img src="https://files.catbox.moe/a44m93.jpg" width="400"/></div>
 ---
 
-🚀 3-Step TO DEPLOY
+🚀 3-STEPS TO DEPLOY
 
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 30px 0;"><div style="background: linear-gradient(135deg, #1A1A1A, #003300); padding: 15px; border-radius: 10px; border-left: 4px solid #00FF88;">
 
@@ -32,7 +32,7 @@
 </div><div style="background: linear-gradient(135deg, #1A1A1A, #330000); padding: 15px; border-radius: 10px; border-left: 4px solid #FF0066;">
 
   <h3>🥉 STEP 3: Deploy & Conquer</h3>
-  <a href="https://heruko-flexi-ai.vercel.app/" target="_blank">
+  <a href="https://heruko-flex-ai.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/DEPLOY_ON_HERUKO-FF0066?style=for-the-badge&logo=heroku&logoColor=white" width="200"/>
   </a>
   <p>One-click Heroku deployment</p>
