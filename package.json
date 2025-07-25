@@ -4,7 +4,7 @@
   "description": "A WhatsApp AI made with love by Davincs",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name 𝐅𝐋𝐄𝐗 𝐀𝐈",
+    "start": "pm2 start index.js --deep-monitoring --attach --name FLEX-AI",
     "stop": "pm2 stop FLEX-AI",
     "restart": "pm2 restart FLEX-AI"
   },
