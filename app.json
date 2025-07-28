@@ -78,27 +78,28 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY DML-MD 🇹🇿*"
+      "value": "*SEEN YOUR STATUS BY flex ai*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "DML-TECH"
+      "value": "𝙳𝙰𝚅𝙸𝙽𝙲𝚂 𝚃𝙴𝙲𝙷
+"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "255622220680"
+      "value": "255656582542"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "DML-MD"
+      "value": "【𝐅𝐋𝐄𝐗 𝐀𝐈】"
 
       }, 
 
@@ -131,13 +132,13 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/vcdwmp.jpg"
+      "value": "https://files.catbox.moe/4q6vth.jpg"
     },
     
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© POWERED BY DML-TECH*"
+      "value": "*© 𝐄𝐍𝐆𝐈𝐍𝐄 𝐂𝐎𝐑𝐄 𝐁𝐘 𝐃𝐀𝐕𝐈𝐍𝐂𝐒*"
     },
 
       "DELETE_LINKS": {
