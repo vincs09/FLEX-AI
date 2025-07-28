@@ -85,8 +85,7 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "𝙳𝙰𝚅𝙸𝙽𝙲𝚂 𝚃𝙴𝙲𝙷
-"
+      "value": "𝙳𝙰𝚅𝙸𝙽𝙲𝚂 𝚃𝙴𝙲𝙷"
 }, 
 
     "OWNER_NUMBER": {
