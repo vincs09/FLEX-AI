@@ -1,8 +1,8 @@
 {
-  "name": "FLEX-AI",
-  "description": "An Advanced Whatsapp bot 🚀 built for fast automation, media tool, and smooth group management developed by Allan Davincs",
-  "logo": "https://files.catbox.moe/a44m93.jpg",
-  "keywords": ["FLEX-AI"],
+  "name": "DML-MD",
+  "description": "An Advanced Whatsapp bot 🚀 built for fast automation, media tool, and smooth group management developed by Daudy Musa",
+  "logo": "https://files.catbox.moe/vcdwmp.jpg",
+  "keywords": ["DML-MD"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "𝐅𝐋𝐄𝐗 𝐀𝐈"
+      "value": "DML-MD"
     }, 
       
     "PREFIX": {
@@ -78,27 +78,27 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY 𝐅𝐋𝐄𝐗 𝐀𝐈*"
+      "value": "*SEEN YOUR STATUS BY DML-MD 🇹🇿*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "𝑨𝑳𝑳𝑨𝑵 𝑫𝑨𝑽𝑰𝑵𝑪𝑺"
+      "value": "DML-TECH"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "255759637644"
+      "value": "255622220680"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "【𝗙𝗟𝗘𝗫 𝗔𝗜】"
+      "value": "DML-MD"
 
       }, 
 
@@ -131,13 +131,13 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/dff3u2.jpg"
+      "value": "https://files.catbox.moe/vcdwmp.jpg"
     },
     
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ENGINE 𝘊𝘖𝘙𝘌 BY 𝐃𝐀𝐕𝐈𝐍𝐂𝐒 𝐓𝐄𝐂𝐇*"
+      "value": "*© POWERED BY DML-TECH*"
     },
 
       "DELETE_LINKS": {
