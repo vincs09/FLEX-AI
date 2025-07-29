@@ -1,8 +1,8 @@
 {
-  "name": "DML-MD",
-  "description": "An Advanced Whatsapp bot 🚀 built for fast automation, media tool, and smooth group management developed by Daudy Musa",
+  "name": "FLEX-AI",
+  "description": "An Advanced Whatsapp bot 🚀 built for fast automation, media tool, and smooth group management developed by ALLAN DAVINCS",
   "logo": "https://files.catbox.moe/vcdwmp.jpg",
-  "keywords": ["DML-MD"],
+  "keywords": ["FLEX-AI"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "DML-MD"
+      "value": "FLEX-AI"
     }, 
       
     "PREFIX": {
